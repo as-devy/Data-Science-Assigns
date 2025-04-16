@@ -1,5 +1,5 @@
 # Dependencies Required
-`pip install notebook pandas seaborn matplotlib`
+$ pip install notebook pandas seaborn matplotlib
 
 # Start jupyter On Browser
-`jupyter notebook`
+$ jupyter notebook
